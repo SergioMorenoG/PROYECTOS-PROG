@@ -1,0 +1,19 @@
+Algoritmo calculadora
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+FinAlgoritmo
