@@ -6,6 +6,8 @@
  * @version 1.0.0
  */
 
+import java.io.Console;
+
 public class Colores2 {
 
   // public static void main(String[] args) {
@@ -47,5 +49,7 @@ public class Colores2 {
     System.out.println(" ");
     System.out.println(ConsoleColors.WHITE_BOLD_BRIGHT + "Hola");
     System.out.println(" ");
+
+    System.out.print(ConsoleColors.RESET);
   }
 }

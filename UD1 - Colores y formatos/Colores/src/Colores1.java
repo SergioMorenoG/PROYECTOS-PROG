@@ -16,5 +16,7 @@ public class Colores1 {
     System.out.print("\033[36m cielo");
     System.out.print("\033[35m nazareno");
     System.out.print("\033[34m mar");
+
+
   }
 }
