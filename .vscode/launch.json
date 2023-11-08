@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Libro_bucles",
+            "request": "launch",
+            "mainClass": "Libro_bucles",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
             "name": "UD4actividad25",
             "request": "launch",
             "mainClass": "UD4actividad25",
