@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UD5actividad17",
+            "request": "launch",
+            "mainClass": "UD5actividad17",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD5actividad16",
+            "request": "launch",
+            "mainClass": "UD5actividad16",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD5actividad14_1",
+            "request": "launch",
+            "mainClass": "UD5actividad14_1",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD5actividad15",
+            "request": "launch",
+            "mainClass": "UD5actividad15",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD5actividad14",
+            "request": "launch",
+            "mainClass": "UD5actividad14",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD5actividad13",
+            "request": "launch",
+            "mainClass": "UD5actividad13",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD5actividad12",
+            "request": "launch",
+            "mainClass": "UD5actividad12",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD5actividad11",
+            "request": "launch",
+            "mainClass": "UD5actividad11",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD5actividad10",
+            "request": "launch",
+            "mainClass": "UD5actividad10",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
             "name": "Libro_bucles",
             "request": "launch",
             "mainClass": "Libro_bucles",
