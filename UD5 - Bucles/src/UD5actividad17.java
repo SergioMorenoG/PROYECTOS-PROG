@@ -7,16 +7,27 @@ public class UD5actividad17 {
      * es correcto (que es un número positivo).
      */
     public static void main(String[] args) {
+        int total = 0;
+        int auxiliar = 0;
+        int contador = 0;
         Scanner s = new Scanner(System.in);
-        System.out.print("Introduce un número para saber la suma: ");
+        System.out.print("Introduce un número para saber la suma con los 100 siguientes números: ");
         int numero = s.nextInt();
 
-        while (numero < 0) {
+        while (numero <= 0) {
             System.out.print("El número debe ser positivo. Introduce otro número: ");
             numero = s.nextInt();
         }
 
-        for(int i = numero; i+=100; i++)
-            int total +=
+        do {
+            total = numero + auxiliar;
+            auxiliar = total;
+            numero++;
+            contador++;
+            
+        } while (contador < 100);
+
+        System.out.print("La suma de los 100 siguientes números es igual a " + total);
+        s.close();
     }
 }
