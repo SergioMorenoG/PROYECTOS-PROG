@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UD5actividad33",
+            "request": "launch",
+            "mainClass": "UD5actividad33",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD5actividad32",
+            "request": "launch",
+            "mainClass": "UD5actividad32",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD5actividad31",
+            "request": "launch",
+            "mainClass": "UD5actividad31",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD5actividad30",
+            "request": "launch",
+            "mainClass": "UD5actividad30",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD5actividad29",
+            "request": "launch",
+            "mainClass": "UD5actividad29",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD5actividad28",
+            "request": "launch",
+            "mainClass": "UD5actividad28",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD5actividad27",
+            "request": "launch",
+            "mainClass": "UD5actividad27",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD5actividad19",
+            "request": "launch",
+            "mainClass": "UD5actividad19",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD5actividad26",
+            "request": "launch",
+            "mainClass": "UD5actividad26",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD5actividad25",
+            "request": "launch",
+            "mainClass": "UD5actividad25",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD5actividad24",
+            "request": "launch",
+            "mainClass": "UD5actividad24",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD5actividad22",
+            "request": "launch",
+            "mainClass": "UD5actividad22",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
             "name": "UD5actividad17",
             "request": "launch",
             "mainClass": "UD5actividad17",
