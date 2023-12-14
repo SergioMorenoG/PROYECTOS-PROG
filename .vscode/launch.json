@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UD6actividad6",
+            "request": "launch",
+            "mainClass": "UD6actividad6",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD6actividad5",
+            "request": "launch",
+            "mainClass": "UD6actividad5",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD6actividad4",
+            "request": "launch",
+            "mainClass": "UD6actividad4",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD6actividad3",
+            "request": "launch",
+            "mainClass": "UD6actividad3",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD6actividad2",
+            "request": "launch",
+            "mainClass": "UD6actividad2",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD6actividad1",
+            "request": "launch",
+            "mainClass": "UD6actividad1",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD5actividad43",
+            "request": "launch",
+            "mainClass": "UD5actividad43",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
             "name": "UDactividad42",
             "request": "launch",
             "mainClass": "UDactividad42",
