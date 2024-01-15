@@ -6,6 +6,216 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pruebaaa",
+            "request": "launch",
+            "mainClass": "pruebaaa",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "zUD7actividad12",
+            "request": "launch",
+            "mainClass": "zUD7actividad12",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "zUD7actividad11",
+            "request": "launch",
+            "mainClass": "zUD7actividad11",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "aejerciciovideo",
+            "request": "launch",
+            "mainClass": "aejerciciovideo",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "zUD7actividad9",
+            "request": "launch",
+            "mainClass": "zUD7actividad9",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "zUD7actividad8",
+            "request": "launch",
+            "mainClass": "zUD7actividad8",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "zUD7actividad6",
+            "request": "launch",
+            "mainClass": "zUD7actividad6",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "zUD7actividad5",
+            "request": "launch",
+            "mainClass": "zUD7actividad5",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "zUD7actividad4",
+            "request": "launch",
+            "mainClass": "zUD7actividad4",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "zUD7actividad3",
+            "request": "launch",
+            "mainClass": "zUD7actividad3",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "zUD7actividad2",
+            "request": "launch",
+            "mainClass": "zUD7actividad2",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "zUD7actividad1",
+            "request": "launch",
+            "mainClass": "zUD7actividad1",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD7actividad17",
+            "request": "launch",
+            "mainClass": "UD7actividad17",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD7actividad15",
+            "request": "launch",
+            "mainClass": "UD7actividad15",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD7actividad14",
+            "request": "launch",
+            "mainClass": "UD7actividad14",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD7actividad13",
+            "request": "launch",
+            "mainClass": "UD7actividad13",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD7actividad12",
+            "request": "launch",
+            "mainClass": "UD7actividad12",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD7actividad11",
+            "request": "launch",
+            "mainClass": "UD7actividad11",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD7actividad10",
+            "request": "launch",
+            "mainClass": "UD7actividad10",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD7actividad9",
+            "request": "launch",
+            "mainClass": "UD7actividad9",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD7actividad8",
+            "request": "launch",
+            "mainClass": "UD7actividad8",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD7actividad7",
+            "request": "launch",
+            "mainClass": "UD7actividad7",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD7actividad6",
+            "request": "launch",
+            "mainClass": "UD7actividad6",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD7actividad5",
+            "request": "launch",
+            "mainClass": "UD7actividad5",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD7actividad4",
+            "request": "launch",
+            "mainClass": "UD7actividad4",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD7actividad3",
+            "request": "launch",
+            "mainClass": "UD7actividad3",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD7actividad2",
+            "request": "launch",
+            "mainClass": "UD7actividad2",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD7actividad1",
+            "request": "launch",
+            "mainClass": "UD7actividad1",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "aprendiendoarrays",
+            "request": "launch",
+            "mainClass": "aprendiendoarrays",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
+            "name": "UD6actividad9",
+            "request": "launch",
+            "mainClass": "UD6actividad9",
+            "projectName": "PROYECTOS-PROG_2247e62b"
+        },
+        {
+            "type": "java",
             "name": "UD6actividad6",
             "request": "launch",
             "mainClass": "UD6actividad6",
